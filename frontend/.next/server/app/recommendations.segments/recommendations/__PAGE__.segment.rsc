@@ -1,0 +1,6 @@
+1:"$Sreact.fragment"
+2:I[670,["/_next/static/chunks/588fdf9faeedd5d3.js","/_next/static/chunks/cf2b9a8e12d5bd3e.js","/_next/static/chunks/6103f3eb0f330e4c.js","/_next/static/chunks/67297e737f329a41.js","/_next/static/chunks/4c0c5492ca1833de.js","/_next/static/chunks/aa939c2b67e72597.js"],"RecommendationsClient"]
+3:I[97367,["/_next/static/chunks/ff1a16fafef87110.js","/_next/static/chunks/1a476e30dee46234.js"],"OutletBoundary"]
+4:"$Sreact.suspense"
+0:{"buildId":"Wh96Vmh1yJ23HoM04CZqV","rsc":["$","$1","c",{"children":[["$","div",null,{"className":"container mx-auto px-4 py-8","children":[["$","div",null,{"className":"mb-8","children":[["$","h1",null,{"className":"text-3xl font-bold","children":"Gợi ý phim"}],["$","p",null,{"className":"mt-2 text-muted-foreground","children":"Chọn người dùng và xem gợi ý phim từ các mô hình recommendation khác nhau"}]]}],["$","$L2",null,{}]]}],[["$","script","script-0",{"src":"/_next/static/chunks/4c0c5492ca1833de.js","async":true}],["$","script","script-1",{"src":"/_next/static/chunks/aa939c2b67e72597.js","async":true}]],["$","$L3",null,{"children":["$","$4",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"loading":null,"isPartial":false}
+5:null
