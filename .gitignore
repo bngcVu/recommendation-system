@@ -1,0 +1,25 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.venv/
+venv/
+
+# Data & model lớn
+backend/data/
+backend/models_saved/
+
+# Notebook checkpoint
+.ipynb_checkpoints/
+
+# Environment
+.env
+.env.*
+
+# Node
+node_modules/
+
+# OS
+.DS_Store
+Thumbs.db
